@@ -8,6 +8,7 @@ streamlit==1.15.1
 nltk==3.6.5
 textblob==0.15.3
 Sastrawi==1.0.1
-keras
-tensorflow
+regex==2021.9.30
+keras==2.6.0
+tensorflow==2.7.0
 indoNLP
