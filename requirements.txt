@@ -5,4 +5,4 @@ numpy==1.21.4
 scikit-learn==1.0.1
 tensorflow==2.7.0
 keras==2.8.0
-emoji==1.6.1
+indoNLP==0.0.14
